@@ -1,0 +1,16 @@
+C:\Users\almer\source\repos\NHL Stenden Elektrotechniek\bin\Debug\NHL Stenden Elektrotechniek.exe.config
+C:\Users\almer\source\repos\NHL Stenden Elektrotechniek\bin\Debug\NHL Stenden Elektrotechniek.exe
+C:\Users\almer\source\repos\NHL Stenden Elektrotechniek\bin\Debug\NHL Stenden Elektrotechniek.pdb
+C:\Users\almer\source\repos\NHL Stenden Elektrotechniek\bin\Debug\NHL Stenden Elektrotechniek.xml
+C:\Users\almer\source\repos\NHL Stenden Elektrotechniek\obj\Debug\NHL Stenden Elektrotechniek.vbprojAssemblyReference.cache
+C:\Users\almer\source\repos\NHL Stenden Elektrotechniek\obj\Debug\NHL_Stenden_Elektrotechniek.Resources.resources
+C:\Users\almer\source\repos\NHL Stenden Elektrotechniek\obj\Debug\NHL Stenden Elektrotechniek.vbproj.GenerateResource.cache
+C:\Users\almer\source\repos\NHL Stenden Elektrotechniek\obj\Debug\NHL Stenden Elektrotechniek.exe
+C:\Users\almer\source\repos\NHL Stenden Elektrotechniek\obj\Debug\NHL Stenden Elektrotechniek.xml
+C:\Users\almer\source\repos\NHL Stenden Elektrotechniek\obj\Debug\NHL Stenden Elektrotechniek.pdb
+C:\Users\almer\source\repos\NHL Stenden Elektrotechniek\obj\Debug\NHL_Stenden_Elektrotechniek.Hoofdmenu.resources
+C:\Users\almer\source\repos\NHL Stenden Elektrotechniek\obj\Debug\NHL_Stenden_Elektrotechniek.NA2_Gelijkspanning.resources
+C:\Users\almer\source\repos\NHL Stenden Elektrotechniek\obj\Debug\NHL_Stenden_Elektrotechniek.NA2_Gemiddeldewaarde.resources
+C:\Users\almer\source\repos\NHL Stenden Elektrotechniek\obj\Debug\NHL_Stenden_Elektrotechniek.NA2_Momentelewaarde.resources
+C:\Users\almer\source\repos\NHL Stenden Elektrotechniek\obj\Debug\NHL_Stenden_Elektrotechniek.NA2_Spanningsdeler.resources
+C:\Users\almer\source\repos\NHL Stenden Elektrotechniek\obj\Debug\NHL_Stenden_Elektrotechniek.NA2_Wisselspanning.resources
