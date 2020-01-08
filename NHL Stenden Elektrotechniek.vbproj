@@ -166,7 +166,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="NA1 Netwerk Analuse 1\" />
+    <Folder Include="NA1 Netwerk Analyse 1\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>
